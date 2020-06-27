@@ -1,0 +1,23 @@
+PODS:
+  - BKMVVMKit (0.3.2)
+  - MJRefresh (3.2.3)
+
+DEPENDENCIES:
+  - BKMVVMKit (from `../`)
+  - MJRefresh
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MJRefresh
+
+EXTERNAL SOURCES:
+  BKMVVMKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BKMVVMKit: 637c7ebf5957e942229dcb29a20ccd0e06eefba2
+  MJRefresh: 2b1214a2dc8f4df4c5dcb028ea2ad4e245425fb7
+
+PODFILE CHECKSUM: 27c41b7eb400f3b4be9135487135147d9f9de00e
+
+COCOAPODS: 1.8.4
